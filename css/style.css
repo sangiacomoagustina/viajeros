@@ -21,7 +21,6 @@ h1{
     font-size: 80px;
     font-weight: 550;
     text-align: center;
-    margin-top: 16px;
     padding-top: 120px;
     margin-bottom: 25px;
 }
@@ -46,8 +45,10 @@ h2{
     flex-direction: row-reverse;
     justify-content: start;
 }
-main{
+body{
     background-color: #5534A5;
+}
+main{
     width: 100%;
     font-family: 'Cabin', sans-serif;
 }
@@ -98,45 +99,55 @@ main{
 .section-lupa input{
     height: 50px;
     width: 900px;
+    border: none;
 }
 .section-lupa button{
     height: 50px;
     width: 100px;
     background-color: #FFFFFF;
+    border: none;
 }
 .section-video{
     width: 100%;
-    height: 360px;
+    height: 350px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
 }
 .section-video img{
     opacity: 0.9;
 }
 .section-ofertas{
+    padding: 30px;
     width: 100%;
-    height: 1000px;
+    height: 200px;
     background-color: #4B7BE5;
     font-family: 'Cabin', sans-serif;
     color: #FFFFFF;
-    text-align: center; 
+    text-align: center;
+    margin-bottom: 30px;
 }
 .image-1{
-    width: 20%;
-    height: 300px;
-    display: inline;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
 }
-.image-2{
-    display: inline;
-}
-.image-2 img{
-    width: auto;
-    height: 80px;
+.image-1 img{
+    display: flex;
+    flex-direction: row;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin: 2px;
 }
 .section-paquetes{
+    padding: 30px;
+    margin-bottom: 80px;
     width: 100%;
-    height: 1000px;
+    height: 200px;
     background-color: #6FDFDF;
     font-family: 'Cabin', sans-serif;
     color: #5534A5;
@@ -207,6 +218,7 @@ h4{
 footer{
     width: 100%;
     height: 380px;
+    margin-top: 10px;
     background-image: url(../assets/img/mapa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
