@@ -19,7 +19,7 @@ para titulo font-family: 'Cabin Sketch', cursive;
 h1{
     font-family: 'Cabin Sketch', cursive;
     font-size: 80px;
-    font-weight: 400;
+    font-weight: 450;
     text-align: center;
     margin-top: 16px;
     padding-top: 120px;
@@ -36,6 +36,12 @@ h2{
     right: 20px;
     top: 180px;
 }
+/**
+.section-ingreso{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}**/
 main{
     background-color: #5534A5;
     width: 100%;
@@ -43,6 +49,7 @@ main{
 }
 .section-menu{
     width: auto;
+    padding: 1%;
     font-family: 'Cabin', sans-serif;
 }
 .section-menu, .section-menu a:visited{
@@ -53,35 +60,45 @@ main{
     color: #FFFFFF;
     text-transform: uppercase;
 }
-.section-menu a {
+.section-menu a{
     text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 .section-menu ul{
     list-style: none;
-}
-.section-menu ul li{
-    display: inline;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
 }
 .section-menu ul li img {
-    width: auto;
-    height: 50px;
+    width: 64px;
+    height: 64px;
     background-color: #FFFFFF;
+    object-fit: contain;
 }
 .section-lupa{
     width: 100%;
     background-image: url(../assets/img/mapa.jpg);
     background-size: cover;
+    padding: 1%;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 .section-lupa img{
-    width: auto;
-    height: 50px;
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
 }
 .section-video{
     width: 100%;
     height: 330px;
     text-align: center;
     padding-top: 15px;
+
 }
 .section-ofertas{
     width: 100%;
