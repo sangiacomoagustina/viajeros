@@ -1,0 +1,157 @@
+footer {
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/img/mapa.jpg);
+    background-repeat: no-repeat;
+    /**background-size: inherit;**/
+    background-position: center;
+    object-fit: contain;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.final {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    justify-items: center;
+    align-items: center;
+    color: black;
+}
+
+.face {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.what {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.inst {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.twit {
+    grid-column: 4 / 5;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.dom {
+    grid-column: 1 / 4;
+    grid-row: 2 / 3;
+    text-align: center;
+    justify-self: left;
+}
+
+.tel {
+    grid-column: 1 / 4;
+    grid-row: 3 / 4;
+    justify-self: left;
+    text-indent: 15px;
+}
+
+.preg-1 {
+    grid-column: 4 / 6;
+    grid-row: 2 / 3;
+    text-align: center;
+    justify-self: end;
+}
+
+.preg-1 a {
+    text-decoration: none
+}
+
+.preg-1 a:visited {
+    color: black;
+}
+
+.preg-2 {
+    grid-column: 4 / 6;
+    grid-row: 3 / 4;
+    text-align: center;
+    justify-self: end;
+}
+
+.preg-2 a {
+    text-decoration: none
+}
+
+.preg-2 a:visited {
+    color: black;
+}
+
+.celu {
+    width: 100px;
+    height: 100px;
+    grid-column: 6 / 7;
+    grid-row: 2 / 4;
+    object-fit: contain;
+}
+
+.play {
+    grid-column: 7 / 8;
+    grid-row: 2 / 4;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.play a:visited {
+    color: black;
+}
+
+.qr {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    grid-column: 8 / 9;
+    grid-row: 2 / 4;
+}
+
+.trabaja {
+    grid-column: 9 / 11;
+    grid-row: 2 / 3;
+}
+
+.trabaja a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.trabaja a:visited {
+    color: black;
+}
+
+.inicio {
+    grid-column: 9 / 11;
+    grid-row: 3 / 4;
+}
+
+.inicio a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.inicio a:visited {
+    color: black;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+    grid-column: 1 / 11;
+    grid-row: 5 / 6;
+}
