@@ -11,7 +11,7 @@ header {
 .section-ingreso {
     display: flex;
     flex-direction: column;
-    color: black;
+    color: $color-e;
     align-items: flex-end;
     gap: 10px;
     padding-right: 30px;
@@ -24,7 +24,7 @@ header {
 }
 
 .section-ingreso a:visited {
-    color: black;
+    color: $color-e;
 }
 
 .section-ingreso img {

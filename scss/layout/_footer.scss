@@ -1,0 +1,159 @@
+footer {
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/img/mapa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: contain;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.final {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    justify-content: center;
+    justify-items: center;
+    color: $color-e;
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+.redes {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    column-gap: 10px;
+}
+
+.face {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.what {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.inst {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.twit {
+    grid-column: 4 / 5;
+    grid-row: 1 / 2;
+    object-fit: cover;
+}
+
+.dom {
+    grid-column: 1 / 5;
+    grid-row: 2 / 3;
+    text-align: center;
+    justify-self: left;
+}
+
+.tel {
+    grid-column: 1 / 5;
+    grid-row: 3 / 4;
+    text-align: center;
+}
+
+.preguntas {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    text-align: center;
+    line-height: 2;
+}
+
+.preguntas a {
+    text-decoration: none
+}
+
+.preguntas a:visited {
+    color: $color-e;
+}
+
+.app {
+    grid-column: 3 / 4;
+    grid-row: 1 / 3;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    align-items: center;
+    justify-items: center;
+}
+
+.celu {
+    width: 100px;
+    height: 100px;
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+}
+
+.play {
+    grid-column: 2 / 3;
+    grid-row: 1 / 3;
+    text-decoration: none;
+    text-align: center;
+    color: $color-e;
+}
+
+.play a:visited {
+    color: $color-e;
+}
+
+.qr {
+    width: 100px;
+    height: 100px;
+    grid-column: 3 / 4;
+    grid-row: 1 / 3;
+}
+
+.sol {
+    grid-column: 4 / 5;
+    grid-row: 2 / 3;
+    text-align: center;
+    line-height: 2;
+}
+
+.sol a {
+    text-decoration: none;
+}
+
+.sol a:visited {
+    color: $color-e;
+}
+
+h4 {
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+    grid-column: 1 / 5;
+    grid-row: 3 / 4;
+    align-self: center;
+    justify-self: center;
+}
+
+.ppal {
+    grid-column: 9 / 11;
+    grid-row: 4 / 5;
+}
+
+.ppal a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.ppal a:visited {
+    color: $color-e;
+}
