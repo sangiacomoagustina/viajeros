@@ -2,14 +2,43 @@
 @import "./utilities/mixins";
 
 @import "./base/reset";
+@import "./base/typo";
 
 @import "./components/botones";
 
 @import "./layout/header-index";
 @import "./layout/main-index";
-@import "./layout/main-paquete7";
-@import "./layout/main-aereos";
-@import "./layout/main-alojamientos";
 @import "./layout/main-ingresar";
+@import "./layout/main-alojamientos";
+@import "./layout/main-aereos";
+@import "./layout/main-paquete7";
 @import "./layout/footer";
+
+@import "./layout/media1300";
+@import "./layout/media1200";
+@import "./layout/media1140";
+@import "./layout/media1020";
+@import "./layout/media920";
+@import "./layout/media840";
+@import "./layout/media750";
+@import "./layout/media705";
+@import "./layout/media660";
+@import "./layout/media650";
+@import "./layout/media620";
+@import "./layout/media580";
+@import "./layout/media560";
+@import "./layout/media535";
+@import "./layout/media520";
+@import "./layout/media510";
+@import "./layout/media470";
+@import "./layout/media440";
+@import "./layout/media425";
+@import "./layout/media406";
+@import "./layout/media385";
+@import "./layout/media370";
+@import "./layout/media355";
+@import "./layout/media348";
+@import "./layout/media340";
+@import "./layout/media332";
+@import "./layout/media325";
 

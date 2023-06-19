@@ -1,0 +1,70 @@
+@media (max-width:520px) {
+    header {
+        nav {
+            .tit {
+                h1 {
+                    font-size: 70px;
+                }
+            }
+        }
+    }
+
+    main {
+        .section-lupa {
+            img {
+                display: none;
+            }
+
+            form {
+                input {
+                    height: 20px;
+                    width: 180px
+                }
+
+                button {
+                    height: 20px;
+                }
+            }
+        }
+
+        .section-video {
+            iframe {
+                width: 280px;
+                height: 200px;
+            }
+        }
+
+        .section-texto-1 {
+            height: 350px;
+        }
+
+        .section-texto-3 {
+            .prueba {
+                display: flex;
+                flex-direction: column;
+
+                img {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    footer {
+        font-size: 18px;
+
+        .final {
+            padding-top: 0px;
+
+            .app {
+                .celu {
+                    display: none;
+                }
+
+                .qr {
+                    display: none;
+                }
+            }
+        }
+    }
+}

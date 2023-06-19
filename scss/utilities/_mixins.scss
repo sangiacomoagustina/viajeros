@@ -1,0 +1,14 @@
+@mixin formularios($wrap,$aitems,$jcontent,$gap,$tindent,$lheight){
+    display: flex;
+        flex-wrap: $wrap;
+        align-items: $aitems;
+        justify-content: $jcontent;
+        gap: $gap;
+        text-indent: $tindent;
+        line-height: $lheight;
+}
+@mixin input($height,$width,$border){
+    height: $height;
+    width: $width;
+    border: $border;
+}

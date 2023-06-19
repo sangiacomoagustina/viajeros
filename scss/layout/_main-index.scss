@@ -1,18 +1,21 @@
 main {
     width: 100%;
-    font-family: 'Cabin', sans-serif;
+    font-family: $fuente-texto;
+
     .section-menu {
         width: 100%;
         padding: 1%;
-        font-family: 'Cabin', sans-serif;
+        font-family: $fuente-texto;
         flex-wrap: nowrap;
-        ul{
+
+        ul {
             list-style: none;
             display: flex;
             justify-content: space-evenly;
             align-items: center;
             text-align: center;
-            li{
+
+            li {
                 a {
                     text-decoration: none;
                     display: flex;
@@ -22,6 +25,7 @@ main {
                     text-align: center;
                     gap: 10px;
                 }
+
                 img {
                     width: 64px;
                     height: 64px;
@@ -30,9 +34,14 @@ main {
                     display: flex;
                     justify-content: space-evenly;
                 }
+
+                & :hover {
+                    transform: scale(1.05);
+                }
             }
         }
     }
+
     .section-lupa {
         width: 100%;
         height: 100%;
@@ -42,16 +51,19 @@ main {
         display: flex;
         justify-content: center;
         gap: 20px;
+
         img {
             width: 50px;
             height: 50px;
             object-fit: contain;
         }
+
         input {
             height: 50px;
             width: 900px;
             border: none;
         }
+
         button {
             height: 50px;
             width: 100px;
@@ -60,41 +72,56 @@ main {
             margin-left: 20px;
         }
     }
+
     .section-video {
         width: 100%;
         height: 350px;
         display: flex;
         justify-content: space-evenly;
         align-items: center;
+
         .cuota {
             display: flex;
             align-self: center;
             justify-content: center;
+
             img {
                 opacity: 0.9;
+            }
+
+            & :hover {
+                transform: scale(1.1);
+            }
         }
-        }
+
         .paq {
             display: flex;
             align-self: center;
             justify-content: center;
+
             img {
                 opacity: 0.9;
-        }
+            }
+            & :hover {
+                transform: scale(1.1);
+            }
         }
     }
+
     .section-ofertas {
         padding: 20px;
         margin-bottom: 30px;
         width: 100%;
         height: 200px;
         background-color: $color-c;
-        font-family: 'Cabin', sans-serif;
+        font-family: $fuente-texto;
         color: $color-d;
         text-align: center;
+
         h3 {
             font-size: 25px;
         }
+
         .image-1 {
             width: 100%;
             height: 100%;
@@ -102,6 +129,7 @@ main {
             flex-direction: row;
             flex-wrap: nowrap;
             justify-content: space-evenly;
+
             img {
                 display: flex;
                 flex-direction: row;
@@ -110,20 +138,22 @@ main {
                 object-fit: cover;
                 margin: 2px;
             }
+
+            & :hover {
+                transform: scale(1.1);
+            }
         }
     }
+
     .section-paquetes {
-        padding: 20px;
-        margin-bottom: 30px;
-        width: 100%;
-        height: 200px;
+        @extend .section-ofertas;
         background-color: $color-b;
-        font-family: 'Cabin', sans-serif;
         color: $color-a;
-        text-align: center;
+
         h3 {
             font-size: 25px;
         }
+
         .image-11 {
             width: 100%;
             height: 100%;
@@ -131,6 +161,8 @@ main {
             flex-direction: row;
             flex-wrap: nowrap;
             justify-content: space-evenly;
+
+
             img {
                 display: flex;
                 flex-direction: row;
@@ -138,6 +170,9 @@ main {
                 height: 120px;
                 object-fit: cover;
                 margin: 2px;
+            }
+            & :hover {
+                transform: scale(1.06);
             }
         }
     }

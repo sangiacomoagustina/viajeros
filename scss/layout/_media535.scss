@@ -1,0 +1,13 @@
+@media (max-width:535px) {
+    main {
+        .section-texto-4 {
+            flex-direction: column;
+            height: 4400px;
+            padding-right: 20px;
+
+            .image-2 {
+                display: none;
+            }
+        }
+    }
+}

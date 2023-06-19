@@ -1,0 +1,55 @@
+@media (max-width:1020px) {
+    main {
+        .section-lupa {
+            form {
+                input {
+                    width: 400px
+                }
+            }
+        }
+
+        .section-video {
+            height: 250px;
+
+            iframe {
+                height: 200px;
+            }
+
+            .paq {
+                display: none;
+            }
+        }
+
+        .section-texto-1 {
+            height: 320px;
+
+            .section-comienzo {
+                text-align: inherit;
+                margin-left: 0px;
+                font-size: 18px;
+            }
+        }
+
+        .section-texto-3 {
+            height: 700px;
+
+            .prueba {
+                img {
+                    padding-right: 20px;
+                    object-fit: cover;
+                }
+            }
+        }
+
+        .section-texto-4 {
+            height: 4200px;
+        }
+    }
+
+    footer {
+        .final {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+}

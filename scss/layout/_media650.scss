@@ -1,0 +1,109 @@
+@media (max-width:650px) {
+    header {
+        nav {
+            .section-ingreso {
+                align-items: flex-start;
+                gap: 10px;
+                padding-left: 30px;
+                padding-top: 20px;
+
+                a {
+                    align-self: flex-start;
+                }
+            }
+        }
+    }
+
+    main {
+        .section-menu {
+            ul {
+                width: 100%;
+                height: 600px;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                grid-template-rows: repeat(5, 1fr);
+                row-gap: 20px;
+                font-size: 20px;
+
+                .alo {
+                    grid-column: 1 / 2;
+                    grid-row: 1 / 2;
+                }
+
+                .aer {
+                    grid-column: 2 / 3;
+                    grid-row: 1 / 2;
+                }
+
+                .aut {
+                    grid-column: 1 / 2;
+                    grid-row: 2 / 3;
+                }
+
+                .act {
+                    grid-column: 2 / 3;
+                    grid-row: 2 / 3;
+                }
+
+                .asi {
+                    grid-column: 1 / 2;
+                    grid-row: 3 / 4;
+                }
+
+                .atm {
+                    grid-column: 2 / 3;
+                    grid-row: 3 / 4;
+                }
+
+                .bus {
+                    grid-column: 1 / 2;
+                    grid-row: 4 / 5;
+                }
+
+                .tre {
+                    grid-column: 2 / 3;
+                    grid-row: 4 / 5;
+                }
+
+                .tra {
+                    grid-column: 1 / 2;
+                    grid-row: 5 / 6;
+                }
+
+                .doc {
+                    grid-column: 2 / 3;
+                    grid-row: 5 / 6;
+                }
+            }
+        }
+
+
+        .section-lupa {
+            img {
+                width: 30px;
+                height: 30px;
+            }
+
+            form {
+                input {
+                    height: 30px;
+                    width: 300px;
+                }
+
+                button {
+                    height: 30px;
+                    width: 70px;
+                }
+            }
+        }
+
+        .section-texto-3 {
+            font-size: 16px;
+        }
+
+        .section-texto-4 {
+            height: 5900px;
+            text-indent: 0%;
+        }
+    }
+}

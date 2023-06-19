@@ -2,24 +2,29 @@
     width: 100%;
     height: 200px;
     background-color: $color-c;
-    font-family: 'Cabin', sans-serif;
+    font-family: $fuente-texto;
     font-size: 20px;
     color: $color-d;
     text-align: center;
     padding-top: 30px;
     line-height: 2;
-}
 
-.section-comienzo {
-    text-align: left;
-    margin-left: 40px;
+    h2 {
+        font-size: 30px;
+        font-weight: 400;
+    }
+
+    .section-comienzo {
+        text-align: left;
+        margin-left: 40px;
+    }
 }
 
 .section-texto-2 {
     width: 100%;
     height: 200px;
     background-color: $color-b;
-    font-family: 'Cabin', sans-serif;
+    font-family: $fuente-texto;
     color: $color-a;
     font-size: 20px;
     text-align: left;
@@ -28,24 +33,12 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+
+    .completa-aer {
+        @include formularios (wrap, center, flex-start, 20px, 20px, 2);
+
+        input {
+            @include input (30px, 150px, none);
+        }
+    }
 }
-
-.completa-aer {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 20px;
-    text-indent: 20px;
-    line-height: 2;
-}
-
-.completa-aer input {
-    height: 30px;
-    width: 150px;
-    border: none;
-}
-
-
-
-
