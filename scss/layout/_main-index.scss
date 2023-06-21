@@ -102,6 +102,7 @@ main {
             img {
                 opacity: 0.9;
             }
+
             & :hover {
                 transform: scale(1.1);
             }
@@ -130,17 +131,19 @@ main {
             flex-wrap: nowrap;
             justify-content: space-evenly;
 
-            img {
-                display: flex;
-                flex-direction: row;
-                width: 120px;
-                height: 120px;
-                object-fit: cover;
-                margin: 2px;
-            }
+            a {
+                img {
+                    display: flex;
+                    flex-direction: row;
+                    width: 120px;
+                    height: 120px;
+                    object-fit: cover;
+                    margin: 2px;
+                }
 
-            & :hover {
-                transform: scale(1.1);
+                & :hover {
+                    transform: scale(1.06);
+                }
             }
         }
     }
@@ -162,17 +165,20 @@ main {
             flex-wrap: nowrap;
             justify-content: space-evenly;
 
+            a {
 
-            img {
-                display: flex;
-                flex-direction: row;
-                width: 120px;
-                height: 120px;
-                object-fit: cover;
-                margin: 2px;
-            }
-            & :hover {
-                transform: scale(1.06);
+                img {
+                    display: flex;
+                    flex-direction: row;
+                    width: 120px;
+                    height: 120px;
+                    object-fit: cover;
+                    margin: 2px;
+                }
+
+                & :hover {
+                    transform: scale(1.06);
+                }
             }
         }
     }

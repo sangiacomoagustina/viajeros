@@ -1,5 +1,5 @@
 @mixin formularios($wrap,$aitems,$jcontent,$gap,$tindent,$lheight){
-    display: flex;
+        display: flex;
         flex-wrap: $wrap;
         align-items: $aitems;
         justify-content: $jcontent;
