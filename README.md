@@ -9,7 +9,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-###    Repositorio creado por María Agustina Sangiácomo
+### Repositorio creado por María Agustina Sangiácomo
 Proyecto de Repositorio para el curso de Desarrollo Web inspirado en empresas de viajes y turismo.
 
 #### Descripción:
