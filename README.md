@@ -53,7 +53,7 @@ Y después se ofrecen distintas galerías de imágenes a las que se puede accede
 
 - `FIGMA`
 
-![https://www.figma.com/file/A8PN33EjkjY2nom4ZBkDgC/desarrollo-web-54530?type=design&node-id=0%3A1&mode=design&t=FcLII26z4FKxweKj-1]
+[FIGMA VIAJEROS](https://www.figma.com/file/A8PN33EjkjY2nom4ZBkDgC/desarrollo-web-54530?type=design&node-id=0%3A1&mode=design&t=FcLII26z4FKxweKj-1)
 
 #### Sponsors:
 
