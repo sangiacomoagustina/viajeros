@@ -35,6 +35,8 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  animation: sorpresa 15s infinite linear alternate;
+  opacity: 0.9;
   font-family: "Cabin", sans-serif;
 }
 header nav .section-ingreso {
@@ -78,6 +80,14 @@ header .tit h2 {
   font-weight: 400;
 }
 
+@keyframes sorpresa {
+  from {
+    background-position: bottom left;
+  }
+  to {
+    background-position: center;
+  }
+}
 main {
   width: 100%;
   font-family: "Cabin", sans-serif;
@@ -120,6 +130,8 @@ main .section-lupa {
   height: 100%;
   background-image: url(../assets/img/mapa.jpg);
   background-size: cover;
+  animation: sorpresa 15s infinite linear alternate;
+  opacity: 0.9;
   padding: 1%;
   display: flex;
   justify-content: center;
@@ -1225,6 +1237,8 @@ footer {
   background-image: url(../assets/img/mapa.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  animation: sorpresa1 20s infinite linear alternate;
+  opacity: 0.9;
   object-fit: contain;
   font-family: "Cabin", sans-serif;
   font-size: 20px;
@@ -1358,6 +1372,14 @@ footer .final h4 {
   justify-self: center;
 }
 
+@keyframes sorpresa1 {
+  from {
+    background-position: top left;
+  }
+  to {
+    background-position: center;
+  }
+}
 @media (max-width: 1300px) {
   main .section-ofertas, main .section-paquetes {
     height: 400px;

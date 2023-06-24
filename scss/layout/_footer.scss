@@ -4,6 +4,8 @@ footer {
     background-image: url(../assets/img/mapa.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    animation: sorpresa1 20s infinite linear alternate;
+    opacity: 0.9;
     object-fit: contain;
     font-family: $fuente-texto;
     font-size: 20px;
@@ -137,4 +139,12 @@ footer {
         }
     }
     }
+    @keyframes sorpresa1{
+        from{
+         background-position: top left;
+        } 
+        to{
+         background-position: center;
+        }
+     }
 

@@ -5,6 +5,8 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    animation: sorpresa 15s infinite linear alternate;
+    opacity: 0.9;
     font-family: $fuente-texto;
     nav {
         .section-ingreso {
@@ -54,4 +56,12 @@ header {
                 font-weight: 400;
             }
         }
+    }
+    @keyframes sorpresa{
+       from{
+        background-position: bottom left;
+       } 
+       to{
+        background-position: center;
+       }
     }

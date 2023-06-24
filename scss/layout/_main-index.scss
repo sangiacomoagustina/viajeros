@@ -47,6 +47,8 @@ main {
         height: 100%;
         background-image: url(../assets/img/mapa.jpg);
         background-size: cover;
+        animation: sorpresa 15s infinite linear alternate;
+        opacity: 0.9;
         padding: 1%;
         display: flex;
         justify-content: center;
