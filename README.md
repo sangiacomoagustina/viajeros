@@ -61,7 +61,7 @@ Y después se ofrecen distintas galerías de imágenes a las que se puede accede
 
 [PROPUESTA PRESUPUESTO VIAJEROS PARA 1º ENTREVISTA PRESENCIAL](https://www.canva.com/design/DAFmvxGJ9Ls/1UCvkVLxk7XOQArTrmZyPg/view?utm_content=DAFmvxGJ9Ls&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[PROPUESTA PRESUPUESTO VIAJEROS ENVIADA POR MAIL (ZOOM)](https://www.canva.com/design/DAFmxPqE8aQ/zwuAGO_ez4sx1fTtnTB0tg/watch?utm_content=DAFmxPqE8aQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[PROPUESTA PRESUPUESTO VIAJEROS ENVIADA POR MAIL](https://www.canva.com/design/DAFmxPqE8aQ/zwuAGO_ez4sx1fTtnTB0tg/watch?utm_content=DAFmxPqE8aQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 #### Sponsors:
 

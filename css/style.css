@@ -260,8 +260,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -293,16 +291,6 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -321,8 +309,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -354,16 +340,6 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -382,8 +358,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -415,16 +389,6 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -443,8 +407,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -462,16 +424,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -490,8 +442,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -509,16 +459,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -537,8 +477,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -556,16 +494,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -584,8 +512,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -603,16 +529,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -631,8 +547,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -650,16 +564,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -678,8 +582,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -697,16 +599,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -725,8 +617,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -744,16 +634,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -772,8 +652,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -791,16 +669,6 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -819,20 +687,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -851,20 +707,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -883,20 +727,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -915,20 +747,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -947,20 +767,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -979,20 +787,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1011,20 +807,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1043,20 +827,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1075,20 +847,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1107,20 +867,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1139,20 +887,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1171,20 +907,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1203,20 +927,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1235,20 +947,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1267,20 +967,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1299,20 +987,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1331,8 +1007,6 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
 .section-texto-3 {
@@ -1477,16 +1151,6 @@ main .section-paquetes .image-11 a :hover {
   margin-left: 50px;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1505,20 +1169,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1537,20 +1189,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1569,20 +1209,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1601,20 +1229,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
-  animation-duration: 5s;
-  animation-name: hola;
 }
 
-@keyframes hola {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-  to {
-    margin-left: 10%;
-    width: 100%;
-  }
-}
 footer {
   width: 100%;
   height: 100%;
