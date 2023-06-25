@@ -17,5 +17,18 @@
     .section-comienzo {
         text-align: left;
         margin-left: 40px;
+        animation-duration: 5s;
+        animation-name: hola;
     }
+}
+@keyframes hola {
+    from {
+        margin-left: 100%;
+        width: 300%
+      }
+    
+      to {
+        margin-left: 10%;
+        width: 100%;
+}
 }

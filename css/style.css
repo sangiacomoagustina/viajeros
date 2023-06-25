@@ -35,7 +35,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  animation: sorpresa 15s infinite linear alternate;
+  animation: sorpresa 10s infinite linear alternate;
   opacity: 0.9;
   font-family: "Cabin", sans-serif;
 }
@@ -260,6 +260,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -291,6 +293,16 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -309,6 +321,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -340,6 +354,16 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -358,6 +382,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -389,6 +415,16 @@ main .section-paquetes .image-11 a :hover {
   border: none;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -407,6 +443,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -424,6 +462,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -442,6 +490,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -459,6 +509,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -477,6 +537,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -494,6 +556,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -512,6 +584,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -529,6 +603,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -547,6 +631,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -564,6 +650,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -582,6 +678,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -599,6 +697,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -617,6 +725,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -634,6 +744,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -652,6 +772,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-2 {
@@ -669,6 +791,16 @@ main .section-paquetes .image-11 a :hover {
   align-items: center;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -687,8 +819,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -707,8 +851,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -727,8 +883,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -747,8 +915,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -767,8 +947,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -787,8 +979,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -807,8 +1011,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -827,8 +1043,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -847,8 +1075,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -867,8 +1107,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -887,8 +1139,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -907,8 +1171,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -927,8 +1203,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -947,8 +1235,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -967,8 +1267,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -987,8 +1299,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1007,6 +1331,8 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
 .section-texto-3 {
@@ -1151,6 +1477,16 @@ main .section-paquetes .image-11 a :hover {
   margin-left: 50px;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1169,8 +1505,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1189,8 +1537,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1209,8 +1569,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 .section-texto-1 {
   width: 100%;
   height: 200px;
@@ -1229,8 +1601,20 @@ main .section-paquetes .image-11 a :hover {
 .section-texto-1 .section-comienzo {
   text-align: left;
   margin-left: 40px;
+  animation-duration: 5s;
+  animation-name: hola;
 }
 
+@keyframes hola {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 10%;
+    width: 100%;
+  }
+}
 footer {
   width: 100%;
   height: 100%;
@@ -1782,6 +2166,9 @@ footer .final h4 {
   }
 }
 @media (max-width: 650px) {
+  header {
+    animation-duration: 5s;
+  }
   header nav .section-ingreso {
     align-items: flex-start;
     gap: 10px;
@@ -1886,6 +2273,9 @@ footer .final h4 {
   }
 }
 @media (max-width: 520px) {
+  header {
+    animation-duration: 3s;
+  }
   header nav .tit h1 {
     font-size: 70px;
   }
@@ -1937,6 +2327,9 @@ footer .final h4 {
   }
 }
 @media (max-width: 440px) {
+  header {
+    animation-duration: 1s;
+  }
   main .section-texto-4 {
     height: 5800px;
   }

@@ -55,6 +55,14 @@ Y después se ofrecen distintas galerías de imágenes a las que se puede accede
 
 [FIGMA VIAJEROS](https://www.figma.com/file/A8PN33EjkjY2nom4ZBkDgC/desarrollo-web-54530?type=design&node-id=0%3A1&mode=design&t=FcLII26z4FKxweKj-1)
 
+####  Presupuestos elaborados con:
+
+- `CANVA`
+
+[PROPUESTA PRESUPUESTO VIAJEROS PARA 1º ENTREVISTA PRESENCIAL](https://www.canva.com/design/DAFmvxGJ9Ls/1UCvkVLxk7XOQArTrmZyPg/view?utm_content=DAFmvxGJ9Ls&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[PROPUESTA PRESUPUESTO VIAJEROS ENVIADA POR MAIL (ZOOM)](https://www.canva.com/design/DAFmxPqE8aQ/zwuAGO_ez4sx1fTtnTB0tg/watch?utm_content=DAFmxPqE8aQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 #### Sponsors:
 
 - Maximiliano Cardenas
